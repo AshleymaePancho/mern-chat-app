@@ -48,18 +48,26 @@ Run the project
   npm start
 ```
 
-## Features
+# Features
 
-Real time Chatting
-Login & Signup Authentication
-Contact List
-Chat History
-Search Users
-Chat Function
-Notification
-Avatar
-Group Chat
+**Real time Chatting**
+
+**Login & Signup Authentication**
+
+**Contact List**
+
+**Chat History**
+
+**Search Users**
+
+**Chat Function**
+
+**Notification**
+
+**Avatar**
+
+**Group Chat**
 
 ## Demo
 
-![](https://prnt.sc/uYhlOJXqrrTO)
+https://prnt.sc/uYhlOJXqrrTO
