@@ -1,0 +1,29 @@
+{
+  "name": "mern-chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/AshleymaePancho/chatapp.git"
+  },
+  "author": "Ashley Mae Pancho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/AshleymaePancho/chatapp/issues"
+  },
+  "homepage": "https://gitlab.com/AshleymaePancho/chatapp#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.5",
+    "nodemon": "^2.0.22",
+    "socket.io": "^4.6.1"
+  }
+}
